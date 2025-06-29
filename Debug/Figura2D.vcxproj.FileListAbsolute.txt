@@ -1,0 +1,4 @@
+C:\work\estgp\aulas\2024\S1.CG\Práticas\AnoAnterior\Cubo-Boneco\Cubo\Debug\cubo.exe
+C:\work\estgp\aulas\2024\S1.CG\Práticas\AnoAnterior\13-Cubo-Boneco\Cubo\Debug\cubo.exe
+C:\work\estgp\aulas\2024\S1.CG\Práticas\AnoAnterior\13-Cubo-BonecoView\Cubo\Debug\cubo.exe
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\Debug\cubo.exe

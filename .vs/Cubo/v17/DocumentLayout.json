@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\colorcube.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:colorcube.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\pm-maps.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:pm-maps.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\bar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:bar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\bar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:bar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\status_bar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:status_bar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\pm-maps.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60BFBCAA-AF9E-4ABD-B2E2-925912224804}|Figura2D.vcxproj|solutionrelative:pm-maps.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 167,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\player.h",
+              "RelativeDocumentMoniker": "player.h",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\player.h",
+              "RelativeToolTip": "player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-30T16:06:20.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "player.c",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\player.c",
+              "RelativeDocumentMoniker": "player.c",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\player.c",
+              "RelativeToolTip": "player.c",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAIgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-30T16:06:07.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "colorcube.c",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\colorcube.c",
+              "RelativeDocumentMoniker": "colorcube.c",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\colorcube.c",
+              "RelativeToolTip": "colorcube.c",
+              "ViewState": "AQIAAM0BAAAAAAAAAAAAAOsBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-27T01:56:48.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bar.h",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\bar.h",
+              "RelativeDocumentMoniker": "bar.h",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\bar.h",
+              "RelativeToolTip": "bar.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-28T13:47:13.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bar.c",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\bar.c",
+              "RelativeDocumentMoniker": "bar.c",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\bar.c",
+              "RelativeToolTip": "bar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-28T13:46:42.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pm-maps.h",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\pm-maps.h",
+              "RelativeDocumentMoniker": "pm-maps.h",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\pm-maps.h",
+              "RelativeToolTip": "pm-maps.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-27T21:54:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "status_bar.h",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\status_bar.h",
+              "RelativeDocumentMoniker": "status_bar.h",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\status_bar.h",
+              "RelativeToolTip": "status_bar.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-27T13:35:00.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pm-maps.c",
+              "DocumentMoniker": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\pm-maps.c",
+              "RelativeDocumentMoniker": "pm-maps.c",
+              "ToolTip": "C:\\Users\\pauli\\OneDrive\\Ambiente de Trabalho\\Escola\\2\u00BAano\\1semestre\\pacman_23477_21971\\Code (1)\\Code\\pacman\\pacman\\pm-maps.c",
+              "RelativeToolTip": "pm-maps.c",
+              "ViewState": "AQIAADcAAAAAAAAAAAAtwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-27T02:32:18.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

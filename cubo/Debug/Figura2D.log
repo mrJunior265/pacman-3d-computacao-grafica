@@ -1,0 +1,193 @@
+﻿  bar.c
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\bar.c(35,26): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\bar.c(35,34): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+  colorcube.c
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(132,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(188,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(188,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(295,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(295,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(296,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(297,24): error C2065: 'anguloCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(297,12): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(298,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(298,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(298,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(305,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(306,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(306,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(306,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(312,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(312,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(313,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(314,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(314,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(314,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(320,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(320,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(321,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(322,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(322,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(322,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(329,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(329,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(330,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(330,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(330,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(337,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(337,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(338,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(338,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(338,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(347,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(347,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(347,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(354,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(355,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(355,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(355,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(359,13): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(360,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(369,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(369,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(369,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(370,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(370,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(370,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(380,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(380,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(380,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(381,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(381,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(381,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(391,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(391,28): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(396,18): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(396,37): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(395,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(411,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(411,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(413,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(413,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(421,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(421,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(423,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(423,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(431,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(431,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(433,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(433,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(441,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(441,52): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(451,15): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(451,20): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(451,25): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(462,19): warning C4013: 'posicaoAleatorio' undefined; assuming extern returning int
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(462,13): warning C4047: 'initializing': 'Posicao *' differs in levels of indirection from 'int'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(477,33): warning C4028: formal parameter 1 different from declaration
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(481,32): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(481,56): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(503,26): warning C4026: function declared with formal parameter list
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(506,12): warning C4047: 'initializing': 'Posicao *' differs in levels of indirection from 'int'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(538,19): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(538,28): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(539,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(539,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(539,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(546,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(546,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(623,35): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(708,11): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(709,11): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(723,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(724,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(777,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(787,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(943,32): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(943,50): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(948,17): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(948,21): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(960,36): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(977,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(981,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(997,22): error C2065: 'rotacaoCabecaAtiva': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1002,22): error C2065: 'rotacaoCabecaAtiva': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1048,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1051,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1065,22): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1065,29): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1066,17): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1066,28): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1097,16): error C2065: 'anguloCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1097,42): error C2065: 'velocidadeRotacaoCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1098,20): error C2065: 'anguloCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1099,17): error C2065: 'anguloCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1099,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1133,24): error C2065: 'rotacaoCabecaAtiva': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1134,16): error C2065: 'anguloCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1134,42): error C2065: 'velocidadeRotacaoCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1135,20): error C2065: 'anguloCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1136,17): error C2065: 'anguloCabeca': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1136,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1182,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1183,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1184,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1202,16): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1202,31): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1202,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1203,16): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1203,35): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1208,33): error C2065: 'player': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1208,26): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1208,26): warning C4024: 'desenhar_boneco_player': different types for formal and actual parameter 1
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1208,34): error C2059: syntax error: ')'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1210,21): error C2065: 'i': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1210,21): warning C4552: '<': result of expression not used
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1210,40): error C2065: 'i': undeclared identifier
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1210,42): error C2143: syntax error: missing ';' before ')'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1222,2): error C2373: 'glutSwapBuffers': redefinition; different type modifiers
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\freeglut_std.h(434,26):
+  see declaration of 'glutSwapBuffers'
+  
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\colorcube.c(1223,1): error C2059: syntax error: '}'
+  player.c
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(24,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(46,32): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(46,53): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(69,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(69,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(70,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(72,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(72,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(72,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(79,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(80,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(80,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(80,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(86,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(86,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(87,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(88,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(88,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(88,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(94,27): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(94,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(95,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(96,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(96,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(96,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(103,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(103,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(104,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(104,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(104,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(111,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(111,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(112,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(112,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(112,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(145,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(146,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\pauli\OneDrive\Ambiente de Trabalho\Escola\2ºano\1semestre\pacman_23477_21971\Code (1)\Code\pacman\pacman\player.c(162,98): warning C4029: declared formal parameter list different from definition
+  pm-maps.c
+  Generating Code...

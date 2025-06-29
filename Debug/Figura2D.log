@@ -1,0 +1,77 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Figura2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  colorcube.c
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(60,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(68,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(114,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(114,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(114,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(116,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(118,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(126,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(126,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(126,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(128,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(128,33): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(128,43): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(131,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(133,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(135,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(138,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(140,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(142,33): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(151,14): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(151,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(151,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(153,19): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(153,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(153,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(159,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(159,34): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(159,43): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(170,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(172,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(172,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(172,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(179,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(186,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(188,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(189,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(189,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(189,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(196,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(198,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(199,15): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(199,20): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(199,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(213,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(213,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(215,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(215,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(223,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(223,22): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(225,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(225,23): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(233,17): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(233,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(235,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(235,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(267,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(267,39): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(267,54): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(268,32): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(268,51): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(274,24): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(274,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(275,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(275,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(275,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(356,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(357,45): warning C4305: '-=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(359,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(361,44): warning C4305: '-=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(363,44): warning C4305: '-=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(365,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(381,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(390,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\colorcube.c(441,26): warning C4028: formal parameter 1 different from declaration
+  Figura2D.vcxproj -> C:\work\estgp\aulas\2024\S1.CG\Trabalhos\PACMAN-misc\pacman\Debug\cubo.exe
